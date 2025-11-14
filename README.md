@@ -1,6 +1,6 @@
 # uts
 Ini adalah tugas UAS dari pak Falentino dari matkul Pemograman Web
-![Tampilan Index](masterproduct1_admin.png)
-![Tampilan Login](masteruser1_admin.png)
-![Tampilan Dashboard](mastersupplier1_admin.png)
-![Tampilan Dashboard](product1_user.png)
+![Tampilan master product](masterproduct1_admin.png)
+![Tampilan master user](masteruser1_admin.png)
+![Tampilan master supplier](mastersupplier1_admin.png)
+![Tampilan Product_user](product1_user.png)
